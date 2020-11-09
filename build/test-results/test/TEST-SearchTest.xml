@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-09T11:21:36" hostname="Ngos-MacBook-Pro-2.local" time="14.255">
+  <properties/>
+  <testcase name="search" classname="SearchTest" time="14.255"/>
+  <system-out><![CDATA[Taylor Swift Pro Unlimited
+Number of elements:3
+282K
+2
+451
+Number of elements:9
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 26355
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Nov 09, 2020 2:21:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
